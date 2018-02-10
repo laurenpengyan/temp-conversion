@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+    <string name="fahrenheit">Fahrenheit (°F)</string>
+    <string name="celcius">Celsius (°C )</string>
+    <string name="convert">Convert</string>
+</resources>
